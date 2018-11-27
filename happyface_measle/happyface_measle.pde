@@ -39,8 +39,9 @@ void setup() {
 
 void draw() {
   
-  //Arithmetic First
+  //Arithmetic First,the draw
   measlesArithmetic();
+  
   //drawMeasles
   drawMeasles();
   
